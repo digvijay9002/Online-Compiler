@@ -3,7 +3,6 @@
 ⚡️ A code editor that compiles and runs your code on the web.
 Blog: <a href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/" target="__blank">FreeCodeCamp - Build A Code IDE with React</a>
 
-<img src="https://github.com/manuarora700/react-code-editor/blob/main/demo.png" />
 
 ## Features: 
 - Compile and execute code in 40+ programming languages.
